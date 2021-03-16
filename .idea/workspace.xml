@@ -2,86 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1080b090-5832-410a-b700-81af5714d2de" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/chapter05/code0501.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter05/code0507.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter05/code0509.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter05/code0511.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter05/code0512.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter05/code0514.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter05/code0516.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter05/code0517.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter05/code0518.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter05/code0520.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter05/code0524.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter05/code0525.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter07/code0701.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter07/code0706.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/.tmp/" />
-    <ignored path="$PROJECT_DIR$/temp/" />
-    <ignored path="$PROJECT_DIR$/tmp/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter05/code0517.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="798">
-              <caret line="38" column="16" selection-start-line="38" selection-start-column="16" selection-end-line="38" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter05/code0518.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="25" selection-start-column="18" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter05/code0520.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="21">
-              <caret line="1" column="55" selection-end-line="1" selection-end-column="55" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter05/code0524.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="10" lean-forward="true" selection-end-line="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter05/code0525.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/chapter05/code0526.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
-              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -145,6 +74,7 @@
     <option name="width" value="2346" />
     <option name="height" value="2127" />
   </component>
+  <component name="ProjectId" id="1ppg9zbafcWbLly0dberVJPaUpl" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -184,6 +114,10 @@
       <pane id="Scope" />
     </panes>
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -195,26 +129,9 @@
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
     <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Node.js.code0525.js">
-    <configuration name="code0517.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="code0517.js" working-dir="$PROJECT_DIR$/chapter05">
-      <method v="2" />
-    </configuration>
-    <configuration name="code0518.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="code0518.js" working-dir="$PROJECT_DIR$/chapter05">
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Node.js.code0706.js">
     <configuration name="code0520.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="code0520.js" working-dir="$PROJECT_DIR$/chapter05">
       <method v="2" />
     </configuration>
@@ -224,16 +141,23 @@
     <configuration name="code0525.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="code0525.js" working-dir="$PROJECT_DIR$/chapter05">
       <method v="2" />
     </configuration>
+    <configuration name="code0701.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/chapter07/code0701.js" working-dir="$PROJECT_DIR$/chapter07">
+      <method v="2" />
+    </configuration>
+    <configuration name="code0706.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/chapter07/code0706.js" working-dir="$PROJECT_DIR$/chapter07">
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.code0706.js" />
+        <item itemvalue="Node.js.code0701.js" />
         <item itemvalue="Node.js.code0525.js" />
         <item itemvalue="Node.js.code0524.js" />
         <item itemvalue="Node.js.code0520.js" />
-        <item itemvalue="Node.js.code0518.js" />
-        <item itemvalue="Node.js.code0517.js" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -268,6 +192,7 @@
       <workItem from="1561342870151" duration="2587000" />
       <workItem from="1561597554940" duration="7000" />
       <workItem from="1561685787026" duration="8000" />
+      <workItem from="1615885303226" duration="967000" />
     </task>
     <task id="LOCAL-00001" summary="Chapter05 장 진행중~">
       <created>1561031586408</created>
@@ -309,7 +234,18 @@
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Chapter05 장 진행중~" />

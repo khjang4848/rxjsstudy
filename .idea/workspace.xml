@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1080b090-5832-410a-b700-81af5714d2de" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/chapter07/code0701.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter07/code0706.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter08/code0808.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,6 +117,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -131,10 +130,7 @@
     <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="Node.js.code0706.js">
-    <configuration name="code0520.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="code0520.js" working-dir="$PROJECT_DIR$/chapter05">
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Node.js.code0808.js">
     <configuration name="code0524.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="code0524.js" working-dir="$PROJECT_DIR$/chapter05">
       <method v="2" />
     </configuration>
@@ -147,13 +143,16 @@
     <configuration name="code0706.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/chapter07/code0706.js" working-dir="$PROJECT_DIR$/chapter07">
       <method v="2" />
     </configuration>
+    <configuration name="code0808.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/chapter08/code0808.js" working-dir="$PROJECT_DIR$/chapter08">
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.code0808.js" />
         <item itemvalue="Node.js.code0706.js" />
         <item itemvalue="Node.js.code0701.js" />
         <item itemvalue="Node.js.code0525.js" />
         <item itemvalue="Node.js.code0524.js" />
-        <item itemvalue="Node.js.code0520.js" />
       </list>
     </recent_temporary>
   </component>
@@ -193,6 +192,7 @@
       <workItem from="1561597554940" duration="7000" />
       <workItem from="1561685787026" duration="8000" />
       <workItem from="1615885303226" duration="967000" />
+      <workItem from="1616743073789" duration="784000" />
     </task>
     <task id="LOCAL-00001" summary="Chapter05 장 진행중~">
       <created>1561031586408</created>
@@ -246,6 +246,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Chapter05 장 진행중~" />

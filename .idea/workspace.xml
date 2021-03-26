@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1080b090-5832-410a-b700-81af5714d2de" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/chapter08/code0808.js" afterDir="false" />
+    <list default="true" id="1080b090-5832-410a-b700-81af5714d2de" name="Default Changelist" comment="Chapter08 완료">
+      <change afterPath="$PROJECT_DIR$/chapter10/code1001.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -192,7 +193,8 @@
       <workItem from="1561597554940" duration="7000" />
       <workItem from="1561685787026" duration="8000" />
       <workItem from="1615885303226" duration="967000" />
-      <workItem from="1616743073789" duration="784000" />
+      <workItem from="1616743073789" duration="823000" />
+      <workItem from="1616747113002" duration="2165000" />
     </task>
     <task id="LOCAL-00001" summary="Chapter05 장 진행중~">
       <created>1561031586408</created>
@@ -201,7 +203,14 @@
       <option name="project" value="LOCAL" />
       <updated>1561031586408</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Chapter08 완료">
+      <created>1616743876102</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1616743876102</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -250,7 +259,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Chapter05 장 진행중~" />
-    <option name="LAST_COMMIT_MESSAGE" value="Chapter05 장 진행중~" />
+    <MESSAGE value="Chapter08 완료" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chapter08 완료" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/webpack.config.js">

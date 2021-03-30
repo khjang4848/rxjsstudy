@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1080b090-5832-410a-b700-81af5714d2de" name="Default Changelist" comment="Chapter08 완료">
-      <change afterPath="$PROJECT_DIR$/chapter10/code1003.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter10/code1004.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="1080b090-5832-410a-b700-81af5714d2de" name="Default Changelist" comment="Chapter10장 완료" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -263,7 +259,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Chapter05 장 진행중~" />
     <MESSAGE value="Chapter08 완료" />
-    <option name="LAST_COMMIT_MESSAGE" value="Chapter08 완료" />
+    <MESSAGE value="Chapter10장 완료" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chapter10장 완료" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/webpack.config.js">

@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1080b090-5832-410a-b700-81af5714d2de" name="Default Changelist" comment="Chapter11장 진행중~">
-      <change afterPath="$PROJECT_DIR$/chapter11/code1112.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter11/code1113.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter11/code1114.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="1080b090-5832-410a-b700-81af5714d2de" name="Default Changelist" comment="Chapter11장 완료">
+      <change afterPath="$PROJECT_DIR$/chapter12/code1203.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter12/code1204.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter12/code1213.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,6 +28,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -135,29 +142,29 @@
     <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="Node.js.code1114.js">
-    <configuration name="code1003.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/chapter10/code1003.js" working-dir="$PROJECT_DIR$/chapter10">
-      <method v="2" />
-    </configuration>
-    <configuration name="code1004.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/chapter10/code1004.js" working-dir="$PROJECT_DIR$/chapter10">
-      <method v="2" />
-    </configuration>
-    <configuration name="code1112.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/chapter11/code1112.js" working-dir="$PROJECT_DIR$/chapter11">
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Node.js.code1213.js">
     <configuration name="code1113.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/chapter11/code1113.js" working-dir="$PROJECT_DIR$/chapter11">
       <method v="2" />
     </configuration>
     <configuration name="code1114.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/chapter11/code1114.js" working-dir="$PROJECT_DIR$/chapter11">
       <method v="2" />
     </configuration>
+    <configuration name="code1203.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/chapter12/code1203.js" working-dir="$PROJECT_DIR$/chapter12">
+      <method v="2" />
+    </configuration>
+    <configuration name="code1204.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/chapter12/code1204.js" working-dir="$PROJECT_DIR$/chapter12">
+      <method v="2" />
+    </configuration>
+    <configuration name="code1213.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/chapter12/code1213.js" working-dir="$PROJECT_DIR$/chapter12">
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.code1213.js" />
+        <item itemvalue="Node.js.code1204.js" />
+        <item itemvalue="Node.js.code1203.js" />
         <item itemvalue="Node.js.code1114.js" />
         <item itemvalue="Node.js.code1113.js" />
-        <item itemvalue="Node.js.code1112.js" />
-        <item itemvalue="Node.js.code1004.js" />
-        <item itemvalue="Node.js.code1003.js" />
       </list>
     </recent_temporary>
   </component>
@@ -202,7 +209,7 @@
       <workItem from="1616984942177" duration="9329000" />
       <workItem from="1617098345326" duration="43000" />
       <workItem from="1617099258990" duration="914000" />
-      <workItem from="1617171962043" duration="2855000" />
+      <workItem from="1617171962043" duration="6320000" />
     </task>
     <task id="LOCAL-00001" summary="Chapter05 장 진행중~">
       <created>1561031586408</created>
@@ -225,7 +232,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617098370050</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Chapter11장 완료">
+      <created>1617175536643</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1617175536644</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -277,7 +291,8 @@
     <MESSAGE value="Chapter08 완료" />
     <MESSAGE value="Chapter10장 완료" />
     <MESSAGE value="Chapter11장 진행중~" />
-    <option name="LAST_COMMIT_MESSAGE" value="Chapter11장 진행중~" />
+    <MESSAGE value="Chapter11장 완료" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chapter11장 완료" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/webpack.config.js">

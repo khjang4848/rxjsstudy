@@ -14,12 +14,6 @@ const observerB = {
     complete: () => console.log(`observerB complete`)
 }
 
-const observerC = {
-    next: x => console.log(`observerC ${x}`),
-    error: e => console.error(`observerC ${e}`),
-    complete: () => console.log(`observerC complete`)
-}
-
 subject.error('error');
 subject.subscribe(observerA);
 subject.subscribe(observerB);

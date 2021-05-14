@@ -24,8 +24,6 @@ subject.subscribe(observerA);
 subject.subscribe(observerB);
 subject.subscribe(observerC);
 
-subject.next(1)
-subject.next(2)
-subject.next(3)
-
-
+subject.next(1);
+subject.next(2);
+subject.next(3);

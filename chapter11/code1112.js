@@ -18,6 +18,7 @@ const observerC = {
     error: e => console.error(`observerC ${e}`),
     complete: () => console.log(`observerC complete`)
 }
+
 behaviorSubject.subscribe(observerA);
 behaviorSubject.next('값1');
 
